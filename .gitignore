@@ -1,0 +1,14 @@
+# Logs
+logs/
+*.log
+# Local output files
+output/
+exports/
+tmp/
+# Local configuration overrides
+config.local.py
+# MacOS
+.DS_Store
+# Python
+__pycache__/
+*.pyc
